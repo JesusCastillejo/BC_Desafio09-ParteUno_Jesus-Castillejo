@@ -1,0 +1,49 @@
+/* HTML */ 
+
+body{
+    font-family: 'Lato', sans-serif;
+    background-color: black;
+}
+
+/* Header */
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+    background-color: rgba(170, 3, 3, 0.3) ;
+    width: 500px;
+    height: 80px;
+    border-radius: 30px;
+    color: white;
+}
+
+/*MAIN*/
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+picture{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 80px;
+    width: 450px;
+    height: 650px;
+    background-color: rgba(170, 3, 3, 0.3) ;
+}
+
+img{
+    width: 400px;
+    height: 607px;
+}
